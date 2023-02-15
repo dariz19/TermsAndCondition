@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Terms And Condition</string>
+    <string name="terms_and_conditions">
+    <b>Personal Information:</b> To use AQUALERT, you must provide certain personal information, including your name, age, weight, and gender. This information is necessary to ensure that AQUALERT is tailored to your individual needs and preferences. By using AQUALERT, you agree to provide accurate and up-to-date personal information.<br/><br/>
+    <b>Use of Personal Information:</b> We will only use your personal information for the purposes for which it was collected, such as to provide customized services or products. We will not share your personal information with any third parties, except as required by law or with your consent.<br/><br/>
+    <b>Data Protection:</b> We take the protection of your personal information seriously and will take appropriate measures to safeguard your data from unauthorized access, use, or disclosure. We maintain reasonable physical, technical, and administrative safeguards to protect your personal information.<br/><br/>
+    <b>User Consent:</b> By using AQUALERT, you consent to the collection and use of your personal information as outlined in this terms and conditions statement. You have the right to withdraw your consent at any time, and to request that we delete your personal information from our records.<br/><br/>
+    <b>Changes to Terms and Conditions:</b> We reserve the right to modify these terms and conditions at any time. We will provide notice of any material changes to these terms and conditions via our website or through other means of communication.<br/><br/>
+    By using AQUALERT, you agree to these terms and conditions. If you do not agree with these terms and conditions, you should not use AQUALERT.
+    </string>
+
+</resources>
